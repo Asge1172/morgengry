@@ -1,0 +1,7 @@
+C:\Users\Azger\source\repos\Morgenry\Morgenry\bin\Debug\Morgenry.exe.config
+C:\Users\Azger\source\repos\Morgenry\Morgenry\bin\Debug\Morgenry.exe
+C:\Users\Azger\source\repos\Morgenry\Morgenry\bin\Debug\Morgenry.pdb
+C:\Users\Azger\source\repos\Morgenry\Morgenry\obj\Debug\Morgenry.csprojResolveAssemblyReference.cache
+C:\Users\Azger\source\repos\Morgenry\Morgenry\obj\Debug\Morgenry.csproj.CoreCompileInputs.cache
+C:\Users\Azger\source\repos\Morgenry\Morgenry\obj\Debug\Morgenry.exe
+C:\Users\Azger\source\repos\Morgenry\Morgenry\obj\Debug\Morgenry.pdb
