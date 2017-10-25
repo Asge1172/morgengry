@@ -1,0 +1,14 @@
+C:\Users\hafst\source\repos\Morgengry\Morgengry\bin\Debug\Morgengry.exe.config
+C:\Users\hafst\source\repos\Morgengry\Morgengry\bin\Debug\Morgengry.exe
+C:\Users\hafst\source\repos\Morgengry\Morgengry\bin\Debug\Morgengry.pdb
+C:\Users\hafst\source\repos\Morgengry\Morgengry\obj\Debug\Morgengry.csprojResolveAssemblyReference.cache
+C:\Users\hafst\source\repos\Morgengry\Morgengry\obj\Debug\Morgengry.csproj.CoreCompileInputs.cache
+C:\Users\hafst\source\repos\Morgengry\Morgengry\obj\Debug\Morgengry.exe
+C:\Users\hafst\source\repos\Morgengry\Morgengry\obj\Debug\Morgengry.pdb
+C:\Users\Azger\Desktop\Morgengry\Morgengry\bin\Debug\Morgengry.exe.config
+C:\Users\Azger\Desktop\Morgengry\Morgengry\bin\Debug\Morgengry.exe
+C:\Users\Azger\Desktop\Morgengry\Morgengry\bin\Debug\Morgengry.pdb
+C:\Users\Azger\Desktop\Morgengry\Morgengry\obj\Debug\Morgengry.csprojResolveAssemblyReference.cache
+C:\Users\Azger\Desktop\Morgengry\Morgengry\obj\Debug\Morgengry.csproj.CoreCompileInputs.cache
+C:\Users\Azger\Desktop\Morgengry\Morgengry\obj\Debug\Morgengry.exe
+C:\Users\Azger\Desktop\Morgengry\Morgengry\obj\Debug\Morgengry.pdb
