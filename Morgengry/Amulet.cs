@@ -9,9 +9,9 @@ namespace Morgengry
 {
     public class Amulet
     {
-        string ItemId { get; set; }
-        string Design { get; set; }
-        Level Quality { get; set; }
+        public string ItemId { get; set; }
+        public string Design { get; set; }
+        public Level Quality { get; set; }
 
         public Amulet(string _itemId, Level _quality, string _design)
         {

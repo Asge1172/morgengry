@@ -10,11 +10,11 @@ namespace Morgengry
     public class Book
     {
         
-        string ItemId { get; set; }
+        public string ItemId { get; set; }
         
-        string Title { get; set; }
+        public string Title { get; set; }
         
-        double Price { get; set; }
+        public double Price { get; set; }
 
 
         public Book(string _itemId, string _title, double _price)
